@@ -29,3 +29,4 @@ yarn start
 > Feel free to fork this repository and add your ideias!
 
 *Connect me to stay updated*
+*Follow me on linkedin: https://www.linkedin.com/in/saif-alam-khan-381885192/*
